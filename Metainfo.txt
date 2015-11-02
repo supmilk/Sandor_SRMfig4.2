@@ -1,0 +1,17 @@
+Name of QuantLet : Sandor_SRMfig4.2
+
+Published in : 
+
+Description : 'Plots the curves of **** function under different level of significant level 0.05 and 0.1.'
+
+Keywords : 'plot, curve, significant level, distribution funciton, visualization'
+
+See also : 
+
+Author : Sandor
+
+Submitted :
+
+Datafile : 
+
+Example :
